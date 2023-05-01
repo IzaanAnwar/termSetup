@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Read to Install zsh and oh-my-zsh'"
 echo
 
